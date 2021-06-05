@@ -1,0 +1,39 @@
+JUnit:
+
+    1. JUnit is a testing framework for Java programming language
+    2. Important for test driven development
+    3. Used to verify small chunk of code by creating a path or a method
+
+Advantanges:
+1. More Application Developer IDE includes JUnit
+2. Benchmark for testing in Java
+3. Provides a text-based command line
+4. Used by a lot of companies
+5. Supported by a lot of IDE
+
+
+Features:
+
+1. Allows us to write code faster increasing quality
+2. Less complex
+3. It provides test runners for running the tests
+4. Test can be run automatically
+
+
+
+
+
+Framework -- >
+
+Test Fixtures: It ensures that there's a well-known and fixed environment in which tests are run so that results are repeatable
+    1. setUp(), tearDown()
+Test Suites: Bundles few unit test cases then runs them together
+    1. @Runwith
+    2. @SuitClasses
+
+Test Runners: Used for excecuting the test cases
+
+JUnit Classes: Used in writing and testing JUnits
+    1. Assert
+    2. TestCase
+    3. TestResult

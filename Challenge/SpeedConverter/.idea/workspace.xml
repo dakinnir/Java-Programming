@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04f2c0fa-912f-45c9-bb2a-678bac2724d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eI4ls7TtmKlXXvlqf6ZjjkmPBf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SpeedConverter.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04f2c0fa-912f-45c9-bb2a-678bac2724d6" name="Default Changelist" comment="" />
+      <created>1593995926053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593995926053</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="369" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593997452829">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="369" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1593997452829" />
+    <state width="743" height="231" key="GridCell.Tab.0.bottom" timestamp="1594008310740">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="743" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1594008310740" />
+    <state width="743" height="231" key="GridCell.Tab.0.center" timestamp="1594008310739">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="743" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1594008310739" />
+    <state width="743" height="231" key="GridCell.Tab.0.left" timestamp="1594008310739">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="743" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1594008310739" />
+    <state width="743" height="231" key="GridCell.Tab.0.right" timestamp="1594008310740">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="743" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1594008310740" />
+    <state x="610" y="66" width="830" height="791" key="new project wizard" timestamp="1594005995266">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="610" y="66" width="830" height="791" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1594005995266" />
+  </component>
+</project>
